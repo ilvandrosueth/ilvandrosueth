@@ -1,7 +1,7 @@
 ## 👋 Olá! Meu nome é Ilvandro Sueth, sou engenheiro mecânico de formação e mestre em engenharia mecânica. Atualmente estudo Gestão de Projetos e programação, com foco na linguagem Java. 
 
 - 🔭 Hoje trabalho com desenvolvimento mecânico em uma empresa de telecomunicações/tecnologia.
-- 🌱 Estudando Java.
+- 🌱 Estudando Java, HTML, CSS, JavaScript.
 - 📫 Contate-me no email: ilvandro.junior@gmail.com
 
 <div align="center">
